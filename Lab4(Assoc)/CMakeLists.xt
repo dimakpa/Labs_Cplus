@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(Lab4_2_map_)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Lab4_2_map_ main.cpp Maap.cpp Maap.h)
